@@ -1,8 +1,8 @@
 <div align="center">
   <br>
 
-  [![WWebJS Website](./3_Full%20Logo%20Lockup/full_banner_black.png#gh-light-mode-only)](https://wwebjs.dev)
-  [![WWebJS Website](./3_Full%20Logo%20Lockup/full_banner_white.png#gh-dark-mode-only)](https://wwebjs.dev)
+  ![WWebJS Logos](./3_Full%20Logo%20Lockup/full_banner_black.png#gh-light-mode-only)
+  ![WWebJS Logos](./3_Full%20Logo%20Lockup/full_banner_white.png#gh-dark-mode-only)
   
   <br>
 </div>
